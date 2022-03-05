@@ -1,0 +1,18 @@
+.back-home {
+  position: fixed;
+	right: 20px;
+  bottom: 20px;
+  display: flex;
+  text-decoration: none;
+  color: black;
+  width: 80px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(212, 211, 204);
+  align-items: center;
+  justify-content: center;
+}
+
+.back-home:hover {
+  opacity: .2;
+}
